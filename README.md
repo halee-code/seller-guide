@@ -29,6 +29,6 @@
 
 ## 🔗 판매자센터 접속
 
-**URL**: [https://heroines-seller.vercel.app](https://heroines-seller.vercel.app)
+**URL**: [https://seller.heroines.me/](https://seller.heroines.me/)
 
 > 💡 Chrome, Safari, Edge 최신 버전에서 이용해주세요!
